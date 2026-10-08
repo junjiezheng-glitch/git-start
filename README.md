@@ -1,2 +1,2 @@
 # git-start
-# This is a class test word.
+This is a class test word.
